@@ -1,4 +1,4 @@
-# Post-level Stress Categroy Dataset
+# Plscd: Post-level Stress Categroy Dataset
 Dataset of the paper:"A Meta-learning based Stress Category Detection Framework on Social Media"
 
 To receive access, you will need to read, sign, and send back the attached data usage agreement (DUA).
